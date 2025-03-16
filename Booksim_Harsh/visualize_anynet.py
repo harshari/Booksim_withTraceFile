@@ -2,7 +2,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import numpy as np
 
-file_path = "/mnt/data/anynet_HAIMA"  # Path to the file
+file_path = "anynet_TransPIM"  # Path to the file
 
 routers = []
 connections = []
